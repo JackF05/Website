@@ -1,0 +1,18 @@
+p
+{
+    text-align: justify;
+}
+
+.myStyle
+{
+    text-align: justify;
+    color: green;
+    background-color: black;
+}
+
+#myStyle
+{
+    text-align: justify;
+    color: green;
+    background-color: black;
+}
